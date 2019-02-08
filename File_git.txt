@@ -1,2 +1,3 @@
 Here I will try to complete
 my homework.
+Merge conflict Resolved
